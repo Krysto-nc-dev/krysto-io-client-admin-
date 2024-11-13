@@ -1,0 +1,67 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+
+@font-face {
+  font-family: 'Righteous';
+  src: url('../fonts/Righteous-Regular.ttf') format('truetype');
+}
+.font-righteous{font-family:"Righteous"!important;font-weight:200!important;}
+
+.font-lato{font-family:"Lato"!important;font-weight:300!important;}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('../fonts/Montserrat/Montserrat-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  src: url('../fonts/Montserrat/Montserrat-Bold.ttf') format('truetype');
+  font-weight:bold;
+}
+.font-montserrat{font-family:"Montserrat"!important;font-weight:200!important;}
+
+
+@font-face {
+  font-family: 'BungeeInline';
+  src: url('../fonts/BungeeInline-Regular.ttf') format('truetype');
+}
+.font-main1, .v-btn.font-main1{font-family:"BungeeInline"!important;font-weight:400!important;}
+
+
+
+
+@font-face {
+  font-family: 'BalooChettan2';
+  src: url('../fonts/BalooChettan2-VariableFont_wght.ttf') format('truetype');
+}
+.font-main, .v-btn.font-main{font-family:"BalooChettan2"!important;font-weight:400!important;}
+
+
+
+
+@font-face {
+  font-family: 'balder';
+  src: url('../fonts/balder_ll-webfont.woff2') format('woff2'),
+       url('../fonts/balder_ll-webfont.woff') format('woff'),
+       url('../fonts/balder_ll-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+.font-balder{ font-family:"balder"!important;font-weight:200!important; }
+.font-intripid1{ font-family:"balder"!important;font-weight:200!important; }
+
+
+@font-face {
+  font-family: 'bebas_neueregular';
+  src: url('../fonts/bebasneue-webfont.woff2') format('woff2'),
+       url('../fonts/bebasneue-webfont.woff') format('woff'),
+       url('../fonts/bebasneue-webfont.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+.font-bebas{ font-family:"bebas_neueregular"!important;font-weight:200!important; }
+.font-intripid2{ font-family:"bebas_neueregular"!important;font-weight:200!important; }
+
+.font-comfortaa{ font-family:"Comfortaa"!important;font-weight:200!important; }
+.font-intripid3{ font-family:"Comfortaa"!important;font-weight:200!important; }

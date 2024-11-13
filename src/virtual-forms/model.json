@@ -1,0 +1,38 @@
+[
+  { "name": "name",
+    "type": "text-field",
+    "value": "",
+    "label": "Nom",
+    "placeholder": "Indiquez votre nom"
+  },
+  { "name": "description",  
+    "type": "textarea",
+    "value": "",
+    "label": "Description",
+    "placeholder": "Indiquez une description"
+  },
+  { "name": "country",  
+    "type": "text-field",
+    "value": "",
+    "label": "Pays",
+    "placeholder": "Indiquez votre pays"
+  },
+  { "name": "sexe",
+    "type": "radio", 
+    "value": "",
+    "label": "Sexe",
+    "values": [{
+        "value": "male",
+        "label": "Homme"
+      },{
+        "value": "female",
+        "label": "Femme"
+      }
+    ]
+  },
+  { "name": "public",
+    "type": "switch", 
+    "value": "",
+    "label": "Public"
+  }
+]

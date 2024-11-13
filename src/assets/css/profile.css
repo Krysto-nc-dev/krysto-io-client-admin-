@@ -1,0 +1,15 @@
+.item-transaction-wallet{
+  margin-top:-1px;
+}
+
+.item-transaction-wallet .v-toolbar__content{
+  padding-top:0px !important;
+}
+.daily-text-color{
+  color: #8C8C8C;
+}
+
+#wallet-container .theme--dark.v-toolbar.v-sheet{
+  background-color: #0f0f0f;
+  border: thin solid rgb(30, 30, 32);
+}

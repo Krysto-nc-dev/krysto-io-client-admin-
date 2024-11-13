@@ -1,0 +1,20 @@
+{
+  "root_node" : {
+    "url": "https://api.krup.nc",
+    "port": 443
+},
+  "clientUrl" : "https://krup.nc",
+  "websocketUrl" : "https://krup.nc",
+  "domaineName" : "krup.nc",
+  "enableRegisterUser" : true,
+  "enableRegisterAdmin" : false,
+  "mapTilesUrl": "//stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}.png",
+  
+  "monyToEuro": 10,
+  "siteName": "Krup-Admin",
+  "monyUnity": "krp",
+  "captcha": {
+    "cryptokey" : "ydAORfAp5VWNLDfhsosxiqcdWlahVasa",
+    "algorithm" : "aes-256-cbc"
+  }
+}
